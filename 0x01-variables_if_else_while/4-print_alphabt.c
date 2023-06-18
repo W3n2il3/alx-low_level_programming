@@ -1,12 +1,22 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - the program that print alphabet in a lower case
  * Return: 0
  */
 
-int nain(void)
+int main(void)
 {
-	char low, e, q:
-		e = 'e';
-	        q =
+	char alphabet = 'a';
+
+	while (alphabet <= 'z')
+	{
+		if (alphabet != 'q' && alphabet != 'e')
+		{
+			putchar(alphabet);
+		}
+		alphabet++;
+	}
+	putchar('\n');
+	return (0);
+}
