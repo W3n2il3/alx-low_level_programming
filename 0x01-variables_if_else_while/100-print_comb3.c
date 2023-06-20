@@ -16,7 +16,7 @@ int main(void)
 
 	while (num_2 <= '9')
 	{
-		while (num_2 <= 89)
+		while (num_2 <= '9')
 		{
 			if (num_1 < num_2)
 			{
