@@ -5,7 +5,6 @@
  * @n: the number of times to print diagonal line
  * Return: empty
  */
-
 void print_diagonal(int n)
 {
 	int x, y;
@@ -20,11 +19,10 @@ void print_diagonal(int n)
 		{
 			for (y = 0; y < x; y++)
 			{
-				_putchar(02);
+				_putchar(32);
 			}
-			_putchar(02);
+			_putchar(92);
 		}
 		_putchar('\n');
 	}
 }
-
