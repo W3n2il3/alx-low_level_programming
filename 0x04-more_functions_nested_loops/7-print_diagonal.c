@@ -3,7 +3,7 @@
 /**
  * print_diagonal- draw diagonal line according to parameter
  * @n: the number of times to print diagonal line
- * Return: empty 
+ * Return: empty
  */
 
 void print_diagonal(int n)
@@ -16,7 +16,7 @@ void print_diagonal(int n)
 	}
 	else
 	{
-		for(x = 0; x < n; x++)
+	for (x = 0; x < n; x++)
 		{
 			for (y = 0; y < x; y++)
 			{
