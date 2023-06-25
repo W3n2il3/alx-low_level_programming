@@ -2,6 +2,7 @@
 
 /**
  * more numbers- print 10 times from 0 up to 14
+ * _putchar: print the charecter
  * Return: 10 times of the numbers
  */
 
@@ -19,6 +20,6 @@ void more_numbers(void)
 						}
 						_putchar((y % 10) + '0');
 		}
-		_putchar('\n')
+		_putchar('\n');
 	}
 }
