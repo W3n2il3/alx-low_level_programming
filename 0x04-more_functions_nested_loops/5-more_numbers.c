@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more numbers- print 10 times from 0 up to 14
+ * more_numbers- print 10 times from 0 up to 14
  * _putchar: print the charecter
  * Return: 10 times of the numbers
  */
