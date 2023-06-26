@@ -4,7 +4,6 @@
 /**
  * print_rev - print string in reverse
  * @s: the string to print
- * @c: is the integer
  * Return: void
  */
 
