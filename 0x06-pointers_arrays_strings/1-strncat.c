@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcat- operation of joining the two character
+ * _strncat- operation of joining the two character
  * An inputted number of a byte from crc
  * @dest: a string to be opened upon
  * @src: a string to be oppened by dest
