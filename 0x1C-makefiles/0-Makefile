@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 all: main.c holberton.c
 	gcc main.c holberton.c -o holberton
+=======
+all: main.c school.c
+	gcc main.c school.c -o school
+>>>>>>> 8a460d618dbfe81cc2bffdacd27ef4951b22f054
